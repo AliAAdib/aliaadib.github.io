@@ -1,10 +1,12 @@
 # main links links
 main:
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Resume"
     #url: /resume/
     url: /files/Resume_Formlabs.pdf
  
-  - title: "Portfolio"
-    url: /portfolio/
+
         
 
