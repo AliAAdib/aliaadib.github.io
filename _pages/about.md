@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ali Asghari Adib"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
