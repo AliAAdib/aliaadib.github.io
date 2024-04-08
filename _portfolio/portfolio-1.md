@@ -1,7 +1,6 @@
 ---
 title: "Flowrate control in direct write 3D printing for precise material deposition"
-excerpt: "Regulate the flowrate in Direct-Write (DW) AM with pressure feedback for precise intracorporeal delivery of materials 
- <br/><img src='/images/control.png' style='width: 100%; height: auto'>"
+excerpt: "Regulate the flowrate in Direct-Write (DW) AM with pressure feedback for precise intracorporeal delivery of materials <br/><img src='/images/control.png' style='width: 100%; height: auto'>"
 collection: portfolio
 ---
 
