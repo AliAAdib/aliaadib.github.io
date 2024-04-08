@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optimizing Polymer Formulation for Print Accuracy"
+excerpt: "Can we have a printable biopolymer formulation that is directly and safely 3D printable inside the human body? Well, yes, I developed one.1<br/><img src='/images/item1.png'>"
 collection: portfolio
 ---
 
