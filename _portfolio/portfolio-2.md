@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Polymer Formulation for Print Accuracy"
-excerpt: "**Can we have a biopolymer formulation that is directly and safely 3D printable inside the human body? Well, yes, I developed one!**<br/><br/><img src='/images/item1.png' style='width: 70%; height: auto'>"
+excerpt: "*Can we have a biopolymer formulation that is directly and safely 3D printable inside the human body? Well, yes, I developed one!*<br/><br/><img src='/images/item1.png' style='width: 70%; height: auto'>"
 collection: portfolio
 ---
 
