@@ -1,6 +1,6 @@
 ---
 title: "Flowrate control in direct write 3D printing for precise material deposition"
-excerpt: "**Why: Lack or excess material deposition at start or stop of print leads to print defects in open loop direct-write AM. <br/> What and How: I developed a pressure feedback hybrid control scheme via system dynamics modeling of the fluid flow in direct-write AM in Matlab and Simulink, designed and implemented the hardware and the control software, and successfully demonstrated the enhanced print fidelity in a case study.** <br/><br/><img src='/images/control.png' style='width: 70%; height: auto; border: 2px solid black'>"
+excerpt: "**Why:** Lack or excess material deposition at start or stop of print leads to print defects in open loop direct-write AM. <br/> **What and How:** I developed a pressure feedback hybrid control scheme via system dynamics modeling of the fluid flow in direct-write AM in Matlab and Simulink, designed and implemented the hardware and the control software, and successfully demonstrated the enhanced print fidelity in a case study. <br/><br/><img src='/images/control.png' style='width: 70%; height: auto; border: 2px solid black'>"
 collection: portfolio
 ---
 
