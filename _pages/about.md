@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a mechanical engineer with interdisciplinary expertise in additive manufacturing (3D Printing), mechatronics hardware and software development, robotics and control, material science, and process optimization. I got my Ph.D. in mechanical engineering from The Ohio State University and I am currently a post-doctoral scholar at Carnegie Mellon University. I am leading multiple projects at the Biomedical Engineering Dept. and in collaboration with the [Robotics Institute](https://www.ri.cmu.edu/) at CMU at the confluence of additive manufacturing, robotics, and material science, developing AM platforms and solutions for the fabrication of biological tissue engineering scaffolds.
+ I am a mechanical engineer with interdisciplinary expertise in additive manufacturing (3D Printing), mechatronics hardware and software development, robotics and control, material science, and process optimization. I got my Ph.D. in mechanical engineering from The Ohio State University and I am currently a post-doctoral scholar at Carnegie Mellon University. I am leading multiple projects at the Biomedical Engineering Dept. and in collaboration with the [Robotics Institute](https://www.ri.cmu.edu/) at CMU at the confluence of additive manufacturing, robotics, and material science, developing AM platforms and solutions for the embedded fabrication of biological tissue engineering scaffolds.
 
  <img src='/images/homepage.png' style='width: 70%; height: auto; border: 2px solid black'>
 
