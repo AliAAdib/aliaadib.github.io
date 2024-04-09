@@ -15,7 +15,7 @@ redirect_from:
 A Brief Overview of My Research Experience
 ======
 My Ph.D. research at [HRL](https://mae.osu.edu/hrl) was at the confluence of additive manufacturing (AM), robotics and control, and tissue engineering. I developed a polymeric formulation consisting of a biopolymer and rheological modifier polymers to engineer a 3D printable material for Extrusion-Based Direct-Write AM. I also designed and implemented a pressure feedback control scheme to control flow rate in direct write AM, to improve 3D print fidelity and eliminate print defects caused by lack or excess material deposition at the start and stop of flow. In addition, I contributed to the design and fabrication of the first-ever 9-DOF endoscopic AM robot to perform intracorporeal (inside the body) AM in a minimally invasive manner. 
-<img src='/images/homepage.png' style='width: 70%; height: auto; border: 2px solid black'>
+<br\><img src='/images/homepage.png' style='width: 70%; height: auto; border: 2px solid black'>
 
 
 Future Career Aspiration
