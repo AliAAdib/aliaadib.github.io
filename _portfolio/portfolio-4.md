@@ -1,6 +1,6 @@
 ---
 title: "Non-planar robotic assisted embedded bioprinting"
-excerpt: "**Why:** Fiber orientation plays a key role in native tissue function. Current additive manufacturing schemes utilize planar layer-by-layer slicing and fabrication and fail to recapitulate the non-planar fiber orientation in native tissue. <br/> **What and How:** I developed a robotic-assisted additive manufacturing platform to perform nonplanar embedded AM. Click on the title for more details. <br/> <br/><img src='/images/nonplanar.gif' style='width: 100%; height: auto'>"
+excerpt: "**Why:** Fiber orientation plays a key role in native tissue function. Current additive manufacturing schemes utilize planar layer-by-layer slicing and fabrication and fail to recapitulate the non-planar fiber orientation in native tissue. <br/> **What and How:** I developed a robotic-assisted additive manufacturing platform to perform nonplanar embedded AM. Click on the title for more details. <br/> <br/><img src='/images/nonplanar.gif' style='width: 70%; height: auto'>"
 collection: portfolio
 ---
 
