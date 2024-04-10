@@ -6,5 +6,5 @@ collection: portfolio
 
 Endoscopic Additive Manufacturing (AM) holds a great potential in the translation of tissue engineering (TE) laboratory successes into the clinic. In this project, I contributed to robotics (closed loop inverse kinematics), hardware (motor choice based on estimated torque, pneumatic microextrusion tool design and verification), and software (trajectory generation) integration in the endoscopic AM development. I also simulated the pressure experienced by the cells in the micro extrusion delivery system and leveraged that to carry out informed design modifications. I also demonstrated TE scaffold fabrication via endoscopic additive manufacturing in a surgical environment for the first time, and compared the endoscopic AM printing effect on cell viability to a benchtop DW AM system experimentally.<br/>
 
-<br/><video src='/images/endoam-vid.mp4' style='width: 100%; height: auto'>
+<br/><vid src='/images/endoam-vid.mp4' style='width: 100%; height: auto'>
 
