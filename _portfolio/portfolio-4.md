@@ -6,4 +6,4 @@ collection: portfolio
 
 For this platform design, I integrated compatible hardware to a UR5e manipulator and devised the software architecture. I also programmed the extrusion motor for simultaneous extrusion with robot end effector movements in Arduino IDE and bridged that to root control via Python and ROS. I have also programmed the nonplanar trajectories in Matlab and Python and successfully 3D printed nonplanar geometries. A curved tube example is demonstrated below.  <br/>
 
-<img src='/images/nonplanar-g.gif' style='width: 100%; height: auto'> <img src='/images/item4.png' style='width: 100%; height: auto'>
+<img src='/images/nonplanar-g.gif' style='width: 50%; height: auto'> <img src='/images/item4.png' style='width: 50%; height: auto'>
