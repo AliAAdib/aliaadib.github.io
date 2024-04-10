@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Polymer Formulation for Print Accuracy at Physiological Conditions"
-excerpt: "**Why:**Biomaterials are soft and liquidy fluids and are not 3D printable at physiological conditions. <br/> **What and How:** I developed a biopolymer composition and tuned its formulation to meet rheological properties for printability at physiological conditions. Click on the title for more details. <br/> <br/><img src='/images/item1.png' style='width: 70%; height: auto'>"
+excerpt: "**Why:** Biomaterials are soft and liquidy fluids and are not 3D printable at physiological conditions. <br/> **What and How:** I developed a biopolymer composition and tuned its formulation to meet rheological properties for printability at physiological conditions. Click on the title for more details. <br/> <br/><img src='/images/item1.png' style='width: 70%; height: auto'>"
 collection: portfolio
 ---
 
