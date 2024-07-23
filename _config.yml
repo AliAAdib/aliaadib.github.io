@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+theme: forty-jekyll-theme
 locale                   : "en-US"
 title                    : "Ali Asghari Adib"
 title_separator          : "-"
